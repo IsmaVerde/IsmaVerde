@@ -1,6 +1,6 @@
 # Hello there 👋
 
-Hi, I'm Isma Verde, a computer engineering student at UDC (University of A Coruña, Spain).
+Hi, I'm Isma Verde, a master in cibersecurity student at UDC (University of A Coruña, Spain).
 
 - 📫 How to reach me: ismaelverdecostas@gmail.com
 
