@@ -1,6 +1,9 @@
 # Hello there 👋
 
-Hi, I'm Isma Verde, a master in cibersecurity student at UDC (University of A Coruña, Spain).
+Hi, I'm Isma Verde, a DevOps Specialist at Grupo MásMovil.
+
+- 👨‍🎓 Máster Inter-Universitario en Ciberseguridad at UDC.
+- 👨‍🎓 Grado en Ingeniería Informática.
 
 - 📫 How to reach me: ismaverdecostas@gmail.com
 
