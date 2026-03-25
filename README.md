@@ -27,6 +27,9 @@
   <a href="https://nmap.org/docs.html" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/nmap.png" alt="NMAP" width="40" height="40"/> </a>
   <a href="https://docs.tenable.com/Nessus.htm" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/nessus-logo.png" alt="Nessus" width="80" height="40"/> </a>
   <a href="https://www.zaproxy.org/docs/" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/owaspzaplogo.png" alt="OWASP ZAP" width="70" height="40"/> </a>
+  <a href="https://www.kali.org/tools/hydra/" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/hydra-logo.png" alt="Hydra" width="40" height="40"/> </a>
+  <a href="https://docs.metasploit.com/" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/metasploit_logo.png" alt="Metasploit" width="40" height="40"/> </a>
+  <a href="https://portswigger.net/burp/documentation" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/BurpSuite_logo.png" alt="BurpSuite" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/docs/home/" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/k8s_logo.png" alt="Kubernetes" width="40" height="40"/> </a>
   <a href="https://developer.hashicorp.com/terraform/docs" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/terraform_logo.png" alt="Terraform" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/docs" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/gcp_logo.png" alt="Google Cloud Platform" width="40" height="40"/> </a>
