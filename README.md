@@ -23,11 +23,6 @@
 ### Tools
 
 <p align="left"> 
-  <a href="https://markdown.es/" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/Logo%20Markdown.svg" alt="Markdown" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/Logo%20Git.svg" alt="Git" width="40" height="40"/> </a> 
-  <a href="https://es.overleaf.com/learn" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/Logo%20LaTeX.svg" alt="LaTeX" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/help/idea/discover-intellij-idea.html" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/Logo%20Idea.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/Logo%20VS%20Code.svg" alt="VS Code" width="40" height="40"/> </a> 
   <a href="https://www.autopsy.com/" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/autopsy-logo.svg" alt="Autopsy" width="40" height="40"/> </a>
   <a href="https://nmap.org/docs.html" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/nmap.png" alt="NMAP" width="40" height="40"/> </a>
   <a href="https://docs.tenable.com/Nessus.htm" target="_blank"> <img src="https://github.com/IsmaVerde/IsmaVerde/blob/main/img/nessus-logo.png" alt="Nessus" width="80" height="40"/> </a>
