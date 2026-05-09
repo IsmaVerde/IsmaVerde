@@ -64,9 +64,3 @@ Currently building personal projects related to pentesting and ethical hacking.
 - Grado en Ingeniería Informática, UDC (A Coruña)
 - Certified Kubernetes Administrator, Linux Foundation
 - Penetration Testing Student, INE
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=IsmaVerde&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaVerde&layout=compact&theme=tokyonight)
