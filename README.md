@@ -62,5 +62,6 @@ Currently building personal projects related to pentesting and ethical hacking.
 ## 🎓 Education & Certifications
 - Master Inter-Universitario en Ciberseguridad, UDC (A Coruña)
 - Grado en Ingeniería Informática, UDC (A Coruña)
-- Certified Kubernetes Administrator, Linux Foundation
+- Junior Penetration Tester (eJPTv2) certified, INE.
+- Certified Kubernetes Administrator (CKA), Linux Foundation
 - Penetration Testing Student, INE
